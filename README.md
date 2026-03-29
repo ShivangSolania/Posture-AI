@@ -51,7 +51,7 @@ Posture-AI/
 
 ---
 
-## 📥 Model Weights (Important)
+## Model Weights (Important)
 
 Due to GitHub file size limits, model weights are not included.
 
@@ -65,14 +65,14 @@ Place in root directory:
 
 ---
 
-## ▶️ Running the Project
+## Running the Project
 
 ```bash
 python src/main.py
 ```
 
 
-## 📊 Performance
+## Performance
 
 * ~25 FPS real-time inference
 * Optimized for low-latency detection
@@ -80,11 +80,11 @@ python src/main.py
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
-* 📱 Deploy as a web/mobile app
-* 🎯 Add posture correction suggestions
-* 📈 Advanced analytics dashboard
-* 🧑‍💻 Multi-person posture tracking
+* Deploy as a web/mobile app
+* Add posture correction suggestions
+* Advanced analytics dashboard
+* Multi-person posture tracking
 
 ---
